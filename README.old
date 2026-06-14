@@ -1,0 +1,8 @@
+# 事件牌局戰 RPG Demo v14
+
+16:9 桌面三欄 UI 重設版。遊戲邏輯沿用 v13，僅調整視覺呈現與資訊架構。
+
+```bash
+npm install
+npm run dev
+```
