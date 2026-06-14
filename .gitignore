@@ -1,5 +1,26 @@
+# dependencies
 node_modules/
+
+# production build
+/dist/
 dist/
+
+# Vercel local settings
 .vercel/
+
+# local env files
 .env
+.env.*
+!.env.example
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS / editor
 .DS_Store
+Thumbs.db
+.vscode/
+.idea/
